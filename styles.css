@@ -1,0 +1,12 @@
+* {
+    box-sizing: border-box;
+}
+
+#container {
+    width: 500px;
+    height: 500px;
+    background-color: white;
+    display: flex;
+    flex-wrap: wrap;
+    box-shadow: 0 5px 8px rgba(128, 128, 128, 0.6);
+}
